@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: aagez
+Build-Jdk: 1.8.0_251
+Implementation-Title: springtest
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.aaron-springAPI-test
+Main-Class: ${start-class}
+
